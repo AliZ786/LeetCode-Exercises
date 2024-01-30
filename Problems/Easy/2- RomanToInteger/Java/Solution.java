@@ -24,3 +24,7 @@ class Solution {
         
     }
 }
+
+/*
+ * Runtime: 6ms
+ */
